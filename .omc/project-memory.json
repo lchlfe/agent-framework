@@ -1,0 +1,108 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775639357642,
+  "projectRoot": "d:\\code\\agent-framework",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "declarative-agents": {
+      "path": "declarative-agents",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775639357609,
+      "keyFiles": []
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 1,
+      "lastAccessed": 1775639357610,
+      "keyFiles": [
+        "FAQS.md"
+      ]
+    },
+    "dotnet": {
+      "path": "dotnet",
+      "purpose": null,
+      "fileCount": 11,
+      "lastAccessed": 1775639357610,
+      "keyFiles": [
+        "agent-framework-dotnet.slnx",
+        "agent-framework-release.slnf",
+        "AGENTS.md",
+        "Directory.Build.props",
+        "Directory.Build.targets"
+      ]
+    },
+    "python": {
+      "path": "python",
+      "purpose": null,
+      "fileCount": 16,
+      "lastAccessed": 1775639357611,
+      "keyFiles": [
+        "AGENTS.md",
+        "CHANGELOG.md",
+        "CODING_STANDARD.md",
+        "devsetup.sh",
+        "DEV_SETUP.md"
+      ]
+    },
+    "schemas": {
+      "path": "schemas",
+      "purpose": "Schema definitions",
+      "fileCount": 1,
+      "lastAccessed": 1775639357611,
+      "keyFiles": [
+        "durable-agent-entity-state.json"
+      ]
+    },
+    "docs\\assets": {
+      "path": "docs\\assets",
+      "purpose": "Static assets",
+      "fileCount": 2,
+      "lastAccessed": 1775639357612,
+      "keyFiles": [
+        "Agentic-framework_high-res.png",
+        "readme-banner.png"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "C:\\Users\\lchlf\\.claude\\plugins\\cache\\omc\\oh-my-claudecode\\4.11.2\\README.zh.md",
+      "accessCount": 1,
+      "lastAccessed": 1775639453584,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
